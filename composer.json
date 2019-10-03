@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Shopliebe_PasswordStrength",
+    "name": "OpenMageModuleFostering\/Shopliebe_PasswordStrength",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Allows to configure the required password strength (lenght, required characters e.g) for new passwords.",
     "authors": [
-    {
-        "name": "Marcel Mellor",
-        "email": "info@mellors.de"
-    }
-],
+        {
+            "name": "Marcel Mellor",
+            "email": "info@mellors.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
